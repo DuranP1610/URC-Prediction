@@ -15,9 +15,13 @@ DATA = Path("data")
 
 
 def load_seeds():
-    seed = pd.read_csv(DATA / "standings_2025_26.csv")
-    return {t.team: elo.seed_rating(t.pf, t.pa, t.played) for t in seed.itertuples()}
-
+    """Replay every past season, then carry ratings into 2026-27."""
+    history = pd.read_csv(DATA / "history.csv").sort_values("date")
+    ratings = {}
+    for _, games in history.groupby("season", sort=True):
+        ratings = {t: elo.CARRY * v for t, v in ratings.items()}
+        ratings, _ = elo.replay(games.itertuples(), ratings)
+    return {t: elo.CARRY * v for t, v in ratings.items()}
 
 def current_ratings(params=None):
     results = pd.read_csv(DATA / "results.csv").sort_values(["date", "round"])

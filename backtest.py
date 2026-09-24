@@ -76,7 +76,7 @@ def main():
 
     # 3. final exam on the untouched test season
     test = h[h.season == TEST_SEASON]
-    default = run(matches, {}, 0.6)
+    default = run(matches, {"k": 0.15, "hfa": 4.0}, 0.6)
     report = pd.DataFrame({
         "tuned Elo": score(test, sigma),
         "default Elo": score(default[default.season == TEST_SEASON], elo.SIGMA),
