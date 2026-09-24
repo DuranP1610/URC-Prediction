@@ -1,10 +1,11 @@
 import math
 
-HFA = 4.0     # home advantage, in points
-K = 0.15      # learning rate
-SIGMA = 13.5  # spread of real margins around the prediction (points)
+HFA = 6.0     # home advantage, in points
+K = 0.10      # learning rate
+SIGMA = 14.1  # spread of real margins around the prediction (points)
 CAP = 30      # cap blowouts
-SHRINK = 0.6  # pull last season's form back toward average
+SHRINK = 0.6
+CARRY = 0.7  # pull last season's form back toward average
 
 def seed_rating(pf, pa, played, shrink=SHRINK):
     return shrink * (pf - pa) / played
