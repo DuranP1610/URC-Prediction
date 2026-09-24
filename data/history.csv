@@ -1,0 +1,754 @@
+season,section,home,away,home_score,away_score,venue,date
+2021-22,Round 1,Zebre,Lions,26,38,Stadio Sergio Lanfranchi,2021-09-24
+2021-22,Round 1,Ulster,Glasgow,35,29,Ravenhill Stadium,2021-09-24
+2021-22,Round 1,Cardiff,Connacht,33,21,Cardiff Arms Park,2021-09-24
+2021-22,Round 1,Benetton,Stormers,22,18,Stadio Comunale di Monigo,2021-09-25
+2021-22,Round 1,Leinster,Bulls,31,3,Aviva Stadium,2021-09-25
+2021-22,Round 1,Edinburgh,Scarlets,26,22,Edinburgh Rugby Stadium,2021-09-25
+2021-22,Round 1,Munster,Sharks,42,17,Thomond Park,2021-09-25
+2021-22,Round 1,Dragons,Ospreys,23,27,Rodney Parade,2021-09-26
+2021-22,Round 2,Connacht,Bulls,34,7,Galway Sportsgrounds,2021-10-01
+2021-22,Round 2,Scarlets,Lions,36,13,Parc y Scarlets,2021-10-01
+2021-22,Round 2,Benetton,Edinburgh,28,27,Stadio Comunale di Monigo,2021-10-02
+2021-22,Round 2,Glasgow,Sharks,35,24,Scotstoun Stadium,2021-10-02
+2021-22,Round 2,Zebre,Ulster,3,36,Stadio Sergio Lanfranchi,2021-10-02
+2021-22,Round 2,Ospreys,Cardiff,18,14,Liberty Stadium,2021-10-02
+2021-22,Round 2,Munster,Stormers,34,18,Thomond Park,2021-10-02
+2021-22,Round 2,Dragons,Leinster,6,7,Rodney Parade,2021-10-03
+2021-22,Round 3,Ospreys,Sharks,13,27,Liberty Stadium,2021-10-08
+2021-22,Round 3,Ulster,Benetton,28,8,Ravenhill Stadium,2021-10-08
+2021-22,Round 3,Leinster,Zebre,43,7,RDS Arena,2021-10-09
+2021-22,Round 3,Glasgow,Lions,13,9,Scotstoun Stadium,2021-10-09
+2021-22,Round 3,Connacht,Dragons,22,35,Galway Sportsgrounds,2021-10-09
+2021-22,Round 3,Edinburgh,Stormers,20,20,Edinburgh Rugby Stadium,2021-10-09
+2021-22,Round 3,Cardiff,Bulls,19,29,Cardiff Arms Park,2021-10-09
+2021-22,Round 3,Scarlets,Munster,13,43,Parc y Scarlets,2021-10-10
+2021-22,Round 4,Dragons,Stormers,10,24,Rodney Parade,2021-10-15
+2021-22,Round 4,Ulster,Lions,26,10,Ravenhill Stadium,2021-10-15
+2021-22,Round 4,Zebre,Glasgow,6,17,Stadio Sergio Lanfranchi,2021-10-16
+2021-22,Round 4,Benetton,Ospreys,26,29,Stadio Comunale di Monigo,2021-10-16
+2021-22,Round 4,Leinster,Scarlets,50,15,RDS Arena,2021-10-16
+2021-22,Round 4,Edinburgh,Bulls,17,10,Edinburgh Rugby Stadium,2021-10-16
+2021-22,Round 4,Munster,Connacht,20,18,Thomond Park,2021-10-16
+2021-22,Round 4,Cardiff,Sharks,23,17,Cardiff Arms Park,2021-10-16
+2021-22,Round 5,Glasgow,Leinster,15,31,Scotstoun Stadium,2021-10-22
+2021-22,Round 5,Scarlets,Benetton,34,28,Parc y Scarlets,2021-10-22
+2021-22,Round 5,Ospreys,Munster,18,10,Liberty Stadium,2021-10-23
+2021-22,Round 5,Cardiff,Dragons,31,29,Cardiff Arms Park,2021-10-23
+2021-22,Round 5,Connacht,Ulster,36,11,Aviva Stadium,2021-10-23
+2021-22,Round 5,Zebre,Edinburgh,10,27,Stadio Sergio Lanfranchi,2021-10-23
+2021-22,Round 6,Connacht,Ospreys,46,18,Galway Sportsgrounds,2021-11-26
+2021-22,Round 6,Benetton,Glasgow,19,18,Stadio Comunale di Monigo,2021-11-27
+2021-22,Round 6,Dragons,Edinburgh,14,30,Rodney Parade,2021-11-27
+2021-22,Round 6,Leinster,Ulster,10,20,RDS Arena,2021-11-27
+2021-22,Round 5,Sharks,Bulls,30,16,Kings Park Stadium,2021-12-03
+2021-22,Round 7,Edinburgh,Benetton,24,10,Edinburgh Rugby Stadium,2021-12-03
+2021-22,Round 7,Leinster,Connacht,47,19,RDS Arena,2021-12-03
+2021-22,Round 5,Stormers,Lions,19,37,Cape Town Stadium,2021-12-04
+2021-22,Round 7,Glasgow,Dragons,33,14,Scotstoun Stadium,2021-12-04
+2021-22,Round 7,Ospreys,Ulster,19,13,Liberty Stadium,2021-12-04
+2021-22,Round 8,Zebre,Benetton,14,39,Stadio Sergio Lanfranchi,2021-12-24
+2021-22,Round 9,Scarlets,Ospreys,22,19,Parc y Scarlets,2022-01-01
+2021-22,Round 9,Connacht,Munster,10,8,Galway Sportsgrounds,2022-01-01
+2021-22,Round 10,Glasgow,Ospreys,38,19,Scotstoun Stadium,2022-01-08
+2021-22,Round 10,Edinburgh,Cardiff,34,10,Edinburgh Rugby Stadium,2022-01-08
+2021-22,Round 10,Munster,Ulster,18,13,Thomond Park,2022-01-08
+2021-22,Round 8,Lions,Sharks,37,47,Ellis Park Stadium,2022-01-22
+2021-22,Round 8,Bulls,Stormers,26,30,Loftus Versfeld Stadium,2022-01-22
+2021-22,Round 11,Dragons,Benetton,13,13,Rodney Parade,2022-01-28
+2021-22,Round 11,Ulster,Scarlets,27,15,Ravenhill Stadium,2022-01-28
+2021-22,Round 11,Ospreys,Edinburgh,23,19,Liberty Stadium,2022-01-29
+2021-22,Round 11,Zebre,Munster,17,34,Stadio Sergio Lanfranchi,2022-01-29
+2021-22,Round 11,Sharks,Stormers,22,22,Kings Park Stadium,2022-01-29
+2021-22,Round 11,Cardiff,Leinster,29,27,Cardiff Arms Park,2022-01-29
+2021-22,Round 11,Connacht,Glasgow,20,42,Galway Sportsgrounds,2022-01-29
+2021-22,Round 11,Lions,Bulls,10,34,Ellis Park Stadium,2022-01-29
+2021-22,Round 8,Ulster,Connacht,32,12,Ravenhill Stadium,2022-02-04
+2021-22,Round 9,Bulls,Lions,21,13,Loftus Versfeld Stadium,2022-02-05
+2021-22,Round 9,Stormers,Sharks,20,10,Cape Town Stadium,2022-02-05
+2021-22,Round 8,Leinster,Edinburgh,26,7,RDS Arena,2022-02-11
+2021-22,Round 8,Glasgow,Munster,13,11,Scotstoun Stadium,2022-02-11
+2021-22,Round 12,Lions,Stormers,10,32,Ellis Park Stadium,2022-02-12
+2021-22,Round 12,Bulls,Sharks,22,29,Loftus Versfeld Stadium,2022-02-12
+2021-22,Round 12,Munster,Edinburgh,34,20,Thomond Park,2022-02-18
+2021-22,Round 12,Scarlets,Connacht,23,29,Parc y Scarlets,2022-02-19
+2021-22,Round 12,Leinster,Ospreys,29,7,RDS Arena,2022-02-19
+2021-22,Round 12,Glasgow,Benetton,13,3,Scotstoun Stadium,2022-02-19
+2021-22,Round 12,Dragons,Ulster,0,12,Rodney Parade,2022-02-20
+2021-22,Round 10,Leinster,Lions,21,13,RDS Arena,2022-02-25
+2021-22,Round 10,Zebre,Bulls,7,45,Stadio Sergio Lanfranchi,2022-02-25
+2021-22,Round 10,Benetton,Sharks,7,29,Stadio Comunale di Monigo,2022-02-26
+2021-22,Round 10,Connacht,Stormers,19,17,Galway Sportsgrounds,2022-02-26
+2021-22,Round 13,Edinburgh,Connacht,56,8,Edinburgh Rugby Stadium,2022-03-04
+2021-22,Round 13,Ulster,Cardiff,48,12,Ravenhill Stadium,2022-03-04
+2021-22,Round 13,Munster,Dragons,64,3,Thomond Park,2022-03-05
+2021-22,Round 13,Benetton,Leinster,17,61,Stadio Comunale di Monigo,2022-03-05
+2021-22,Round 13,Scarlets,Glasgow,35,10,Parc y Scarlets,2022-03-05
+2021-22,Round 13,Ospreys,Zebre,27,22,Liberty Stadium,2022-03-06
+2021-22,Round 6,Sharks,Scarlets,37,20,Kings Park Stadium,2022-03-11
+2021-22,Round 9,Ulster,Leinster,18,13,Ravenhill Stadium,2022-03-12
+2021-22,Round 6,Bulls,Munster,29,24,Loftus Versfeld Stadium,2022-03-12
+2021-22,Round 6,Lions,Cardiff,37,20,Ellis Park Stadium,2022-03-13
+2021-22,Round 6,Stormers,Zebre,55,7,Danie Craven Stadium,2022-03-13
+2021-22,Round 7,Bulls,Scarlets,57,12,Loftus Versfeld Stadium,2022-03-18
+2021-22,Round 9,Glasgow,Edinburgh,30,17,Scotstoun Stadium,2022-03-18
+2021-22,Round 7,Sharks,Zebre,38,6,Kings Park Stadium,2022-03-19
+2021-22,Round 7,Stormers,Cardiff,40,3,Cape Town Stadium,2022-03-20
+2021-22,Round 14,Munster,Benetton,51,22,Musgrave Park,2022-03-25
+2021-22,Round 14,Lions,Ospreys,45,15,Ellis Park Stadium,2022-03-25
+2021-22,Round 14,Stormers,Ulster,23,20,Cape Town Stadium,2022-03-26
+2021-22,Round 14,Zebre,Scarlets,24,41,Stadio Sergio Lanfranchi,2022-03-26
+2021-22,Round 14,Sharks,Edinburgh,5,21,Kings Park Stadium,2022-03-26
+2021-22,Round 14,Bulls,Dragons,55,20,Loftus Versfeld Stadium,2022-03-26
+2021-22,Round 14,Connacht,Leinster,8,45,Galway Sportsgrounds,2022-03-26
+2021-22,Round 14,Cardiff,Glasgow,32,28,Cardiff Arms Park,2022-03-26
+2021-22,Round 15,Sharks,Dragons,51,3,Kings Park Stadium,2022-04-01
+2021-22,Round 15,Glasgow,Zebre,40,12,Scotstoun Stadium,2022-04-01
+2021-22,Round 15,Benetton,Connacht,17,21,Stadio Comunale di Monigo,2022-04-02
+2021-22,Round 15,Lions,Edinburgh,15,9,Ellis Park Stadium,2022-04-02
+2021-22,Round 15,Stormers,Ospreys,29,13,Cape Town Stadium,2022-04-02
+2021-22,Round 15,Munster,Leinster,19,34,Thomond Park,2022-04-02
+2021-22,Round 15,Scarlets,Cardiff,35,20,Parc y Scarlets,2022-04-02
+2021-22,Round 15,Bulls,Ulster,34,16,Loftus Versfeld Stadium,2022-04-02
+2021-22,Round 13,Sharks,Lions,37,10,Kings Park Stadium,2022-04-09
+2021-22,Round 13,Stormers,Bulls,19,17,Cape Town Stadium,2022-04-09
+2021-22,Round 8,Cardiff,Scarlets,14,49,Cardiff Arms Park,2022-04-09
+2021-22,Round 10,Scarlets,Dragons,27,38,Parc y Scarlets,2022-04-16
+2021-22,Round 16,Stormers,Glasgow,32,7,Cape Town Stadium,2022-04-22
+2021-22,Round 16,Edinburgh,Zebre,29,26,Edinburgh Rugby Stadium,2022-04-22
+2021-22,Round 16,Ulster,Munster,17,24,Ravenhill Stadium,2022-04-22
+2021-22,Round 16,Bulls,Benetton,46,29,Loftus Versfeld Stadium,2022-04-23
+2021-22,Round 16,Dragons,Scarlets,19,38,Rodney Parade,2022-04-23
+2021-22,Round 16,Lions,Connacht,30,33,Ellis Park Stadium,2022-04-23
+2021-22,Round 16,Sharks,Leinster,28,23,Kings Park Stadium,2022-04-23
+2021-22,Round 16,Cardiff,Ospreys,6,22,Cardiff Arms Park,2022-04-23
+2021-22,Round 17,Munster,Cardiff,42,21,Musgrave Park,2022-04-29
+2021-22,Round 17,Bulls,Glasgow,29,17,Loftus Versfeld Stadium,2022-04-29
+2021-22,Round 17,Sharks,Connacht,41,21,Kings Park Stadium,2022-04-30
+2021-22,Round 17,Stormers,Leinster,20,13,Cape Town Stadium,2022-04-30
+2021-22,Round 17,Ospreys,Scarlets,54,36,Liberty Stadium,2022-04-30
+2021-22,Round 17,Edinburgh,Ulster,10,16,Edinburgh Rugby Stadium,2022-04-30
+2021-22,Round 17,Zebre,Dragons,23,18,Stadio Sergio Lanfranchi,2022-04-30
+2021-22,Round 17,Lions,Benetton,37,29,Ellis Park Stadium,2022-04-30
+2021-22,Round 12,Cardiff,Zebre,42,14,Cardiff Arms Park,2022-05-06
+2021-22,Round 8,Ospreys,Dragons,50,31,Liberty Stadium,2022-05-08
+2021-22,Round 9,Dragons,Cardiff,18,19,Rodney Parade,2022-05-13
+2021-22,Round 9,Benetton,Zebre,39,17,Stadio Comunale di Monigo,2022-05-14
+2021-22,Round 18,Benetton,Cardiff,69,21,Stadio Comunale di Monigo,2022-05-20
+2021-22,Round 18,Ulster,Sharks,24,21,Ravenhill Stadium,2022-05-20
+2021-22,Round 18,Ospreys,Bulls,31,38,Liberty Stadium,2022-05-20
+2021-22,Round 18,Dragons,Lions,11,21,Rodney Parade,2022-05-21
+2021-22,Round 18,Connacht,Zebre,22,20,Galway Sportsgrounds,2022-05-21
+2021-22,Round 18,Scarlets,Stormers,21,26,Parc y Scarlets,2022-05-21
+2021-22,Round 18,Edinburgh,Glasgow,28,11,Murrayfield Stadium,2022-05-21
+2021-22,Round 18,Leinster,Munster,35,25,Aviva Stadium,2022-05-21
+2021-22,Quarter-finals,Ulster,Munster,36,17,Ravenhill Stadium,2022-06-03
+2021-22,Quarter-finals,Stormers,Edinburgh,28,17,Cape Town Stadium,2022-06-04
+2021-22,Quarter-finals,Bulls,Sharks,30,27,Loftus Versfeld,2022-06-04
+2021-22,Quarter-finals,Leinster,Glasgow,76,14,RDS Arena,2022-06-04
+2021-22,Semi-finals,Leinster,Bulls,26,27,RDS Arena,2022-06-10
+2021-22,Semi-finals,Stormers,Ulster,17,15,Cape Town Stadium,2022-06-11
+2021-22,Championship final,Stormers,Bulls,18,13,Cape Town Stadium,2022-06-18
+2022-23,Round 1,Benetton,Glasgow,33,11,Stadio Comunale di Monigo,2022-09-16
+2022-23,Round 1,Zebre,Leinster,29,33,Stadio Sergio Lanfranchi,2022-09-17
+2022-23,Round 1,Cardiff,Munster,20,13,Cardiff Arms Park,2022-09-17
+2022-23,Round 1,Lions,Bulls,15,31,Ellis Park Stadium,2022-09-17
+2022-23,Round 1,Scarlets,Ospreys,23,23,Parc y Scarlets,2022-09-17
+2022-23,Round 1,Ulster,Connacht,36,10,Kingspan Stadium,2022-09-17
+2022-23,Round 1,Edinburgh,Dragons,44,6,The DAM Health Stadium,2022-09-17
+2022-23,Round 2,Leinster,Benetton,42,10,RDS Arena,2022-09-23
+2022-23,Round 2,Zebre,Sharks,37,42,Stadio Sergio Lanfranchi,2022-09-23
+2022-23,Round 2,Glasgow,Cardiff,52,24,Scotstoun Stadium,2022-09-23
+2022-23,Round 2,Scarlets,Ulster,39,55,Parc y Scarlets,2022-09-24
+2022-23,Round 2,Bulls,Edinburgh,33,31,Loftus Versfeld Stadium,2022-09-24
+2022-23,Round 2,Stormers,Connacht,38,15,Danie Craven Stadium,2022-09-24
+2022-23,Round 2,Ospreys,Lions,27,28,Swansea.com Stadium,2022-09-24
+2022-23,Round 2,Dragons,Munster,23,17,Rodney Parade,2022-09-25
+2022-23,Round 3,Bulls,Connacht,28,14,Loftus Versfeld Stadium,2022-09-30
+2022-23,Round 3,Ulster,Leinster,13,20,Kingspan Stadium,2022-09-30
+2022-23,Round 3,Cardiff,Lions,18,31,Cardiff Arms Park,2022-09-30
+2022-23,Round 3,Munster,Zebre,21,5,Musgrave Park,2022-10-01
+2022-23,Round 3,Dragons,Sharks,19,20,Rodney Parade,2022-10-01
+2022-23,Round 3,Benetton,Scarlets,34,23,Stadio Comunale di Monigo,2022-10-01
+2022-23,Round 3,Ospreys,Glasgow,32,17,Swansea.com Stadium,2022-10-01
+2022-23,Round 3,Stormers,Edinburgh,34,18,Cape Town Stadium,2022-10-01
+2022-23,Round 4,Edinburgh,Lions,19,22,The DAM Health Stadium,2022-10-07
+2022-23,Round 4,Connacht,Munster,20,11,The Sportsground,2022-10-07
+2022-23,Round 4,Zebre,Stormers,20,37,Stadio Sergio Lanfranchi,2022-10-08
+2022-23,Round 4,Leinster,Sharks,54,34,RDS Arena,2022-10-08
+2022-23,Round 4,Scarlets,Cardiff,10,16,Parc y Scarlets,2022-10-08
+2022-23,Round 4,Ulster,Ospreys,47,17,Kingspan Stadium,2022-10-08
+2022-23,Round 4,Glasgow,Bulls,35,21,Scotstoun Stadium,2022-10-08
+2022-23,Round 4,Benetton,Dragons,34,14,Stadio Comunale di Monigo,2022-10-09
+2022-23,Round 5,Ospreys,Stormers,16,16,Swansea.com Stadium,2022-10-14
+2022-23,Round 5,Connacht,Leinster,0,10,Galway Sportsgrounds,2022-10-14
+2022-23,Round 5,Scarlets,Zebre,36,12,Parc y Scarlets,2022-10-15
+2022-23,Round 5,Edinburgh,Benetton,53,8,DAM Health Stadium,2022-10-15
+2022-23,Round 5,Munster,Bulls,31,17,Thomond Park,2022-10-15
+2022-23,Round 5,Sharks,Glasgow,40,12,Kings Park Stadium,2022-10-15
+2022-23,Round 5,Lions,Ulster,37,39,Ellis Park Stadium,2022-10-15
+2022-23,Round 5,Cardiff,Dragons,31,14,Cardiff Arms Park,2022-10-15
+2022-23,Round 6,Benetton,Bulls,22,44,Stadio Comunale di Monigo,2022-10-21
+2022-23,Round 6,Connacht,Scarlets,36,14,Galway Sportsgrounds,2022-10-21
+2022-23,Round 6,Zebre,Edinburgh,19,38,Stadio Sergio Lanfranchi,2022-10-22
+2022-23,Round 6,Leinster,Munster,27,13,Aviva Stadium,2022-10-22
+2022-23,Round 6,Cardiff,Stormers,30,24,Cardiff Arms Park,2022-10-22
+2022-23,Round 6,Dragons,Ospreys,32,25,Rodney Parade,2022-10-23
+2022-23,Round 7,Glasgow,Benetton,37,0,Scotstoun Stadium,2022-10-28
+2022-23,Round 7,Scarlets,Leinster,5,35,Parc y Scarlets,2022-10-28
+2022-23,Round 7,Lions,Stormers,22,31,Ellis Park Stadium,2022-10-29
+2022-23,Round 7,Dragons,Zebre,47,7,Rodney Parade,2022-10-29
+2022-23,Round 7,Munster,Ulster,14,15,Thomond Park,2022-10-29
+2022-23,Round 7,Ospreys,Connacht,19,22,Swansea.com Stadium,2022-10-29
+2022-23,Round 7,Bulls,Sharks,40,27,Loftus Versfeld,2022-10-30
+2022-23,Round 7,Cardiff,Edinburgh,17,25,Cardiff Arms Park,2022-10-30
+2022-23,Round 8,Ulster,Zebre,36,15,Kingspan Stadium,2022-11-25
+2022-23,Round 8,Stormers,Scarlets,36,19,Cape Town Stadium,2022-11-25
+2022-23,Round 8,Bulls,Ospreys,43,26,Loftus Versfeld Stadium,2022-11-26
+2022-23,Round 8,Leinster,Glasgow,40,5,RDS Arena,2022-11-26
+2022-23,Round 8,Munster,Connacht,24,17,Thomond Park,2022-11-26
+2022-23,Round 8,Benetton,Edinburgh,24,17,Stadio Comunale di Monigo,2022-11-26
+2022-23,Round 8,Sharks,Cardiff,0,35,Kings Park Stadium,2022-11-27
+2022-23,Round 8,Lions,Dragons,33,25,Ellis Park Stadium,2022-11-27
+2022-23,Round 9,Sharks,Ospreys,25,10,Kings Park Stadium,2022-12-02
+2022-23,Round 9,Edinburgh,Munster,17,38,DAM Health Stadium,2022-12-02
+2022-23,Round 9,Stormers,Dragons,34,26,Nelson Mandela Bay Stadium,2022-12-03
+2022-23,Round 9,Zebre,Glasgow,17,45,Stadio Sergio Lanfranchi,2022-12-03
+2022-23,Round 9,Connacht,Benetton,38,19,Galway Sportsgrounds,2022-12-03
+2022-23,Round 9,Bulls,Cardiff,45,9,Loftus Versfeld Stadium,2022-12-03
+2022-23,Round 9,Leinster,Ulster,38,29,RDS Arena,2022-12-03
+2022-23,Round 9,Lions,Scarlets,32,15,Ellis Park Stadium,2022-12-04
+2022-23,Round 10,Sharks,Lions,37,10,Kings Park Stadium,2022-12-23
+2022-23,Round 10,Stormers,Bulls,37,27,Cape Town Stadium,2022-12-23
+2022-23,Round 10,Connacht,Ulster,20,22,Galway Sportsgrounds,2022-12-23
+2022-23,Round 10,Glasgow,Edinburgh,16,10,Scotstoun Stadium,2022-12-23
+2022-23,Round 10,Benetton,Zebre,38,5,Stadio Comunale di Monigo,2022-12-24
+2022-23,Round 10,Dragons,Cardiff,24,29,Rodney Parade,2022-12-26
+2022-23,Round 10,Ospreys,Scarlets,34,14,Swansea.com Stadium,2022-12-26
+2022-23,Round 10,Munster,Leinster,19,20,Thomond Park,2022-12-26
+2022-23,Round 11,Edinburgh,Glasgow,25,32,Murrayfield Stadium,2022-12-30
+2022-23,Round 11,Zebre,Benetton,17,40,Stadio Sergio Lanfranchi,2022-12-31
+2022-23,Round 11,Sharks,Bulls,47,20,Kings Park Stadium,2022-12-31
+2022-23,Round 11,Stormers,Lions,40,8,Cape Town Stadium,2022-12-31
+2022-23,Round 11,Scarlets,Dragons,33,17,Parc y Scarlets,2023-01-01
+2022-23,Round 11,Leinster,Connacht,41,12,RDS Arena,2023-01-01
+2022-23,Round 11,Cardiff,Ospreys,19,22,Cardiff Arms Park,2023-01-01
+2022-23,Round 11,Ulster,Munster,14,15,Ravenhill Stadium,2023-01-01
+2022-23,Round 12,Dragons,Bulls,14,29,Rodney Parade,2023-01-06
+2022-23,Round 12,Munster,Lions,33,3,Musgrave Park,2023-01-06
+2022-23,Round 12,Benetton,Ulster,31,29,Stadio Comunale di Monigo,2023-01-07
+2022-23,Round 12,Edinburgh,Zebre,24,17,DAM Health Stadium,2023-01-07
+2022-23,Round 12,Cardiff,Scarlets,22,28,Cardiff Arms Park,2023-01-07
+2022-23,Round 12,Connacht,Sharks,24,12,Galway Sportsgrounds,2023-01-07
+2022-23,Round 12,Ospreys,Leinster,19,24,Swansea.com Stadium,2023-01-07
+2022-23,Round 12,Glasgow,Stormers,24,17,Scotstoun Stadium,2023-01-08
+2022-23,Round 13,Ulster,Stormers,35,5,Kingspan Stadium,2023-01-27
+2022-23,Round 13,Scarlets,Bulls,37,28,Parc y Scarlets,2023-01-27
+2022-23,Round 13,Dragons,Glasgow,28,42,Rodney Parade,2023-01-28
+2022-23,Round 13,Leinster,Cardiff,38,14,RDS Arena,2023-01-28
+2022-23,Round 13,Edinburgh,Sharks,19,22,DAM Health Stadium,2023-01-28
+2022-23,Round 13,Connacht,Lions,43,24,Galway Sportsgrounds,2023-01-28
+2022-23,Round 13,Benetton,Munster,30,40,Stadio Comunale di Monigo,2023-01-28
+2022-23,Round 13,Zebre,Ospreys,24,28,Stadio Sergio Lanfranchi,2023-01-29
+2022-23,Round 1 (rescheduled match),Sharks,Stormers,19,46,Kings Park Stadium,2023-02-04
+2022-23,Round 14,Munster,Ospreys,58,3,Thomond Park,2023-02-17
+2022-23,Round 14,Glasgow,Ulster,17,11,Scotstoun Stadium,2023-02-17
+2022-23,Round 14,Cardiff,Benetton,30,13,Cardiff Arms Park,2023-02-18
+2022-23,Round 14,Leinster,Dragons,43,14,RDS Arena,2023-02-18
+2022-23,Round 14,Scarlets,Edinburgh,42,14,Parc y Scarlets,2023-02-18
+2022-23,Round 14,Bulls,Stormers,19,23,Loftus Versfeld Stadium,2023-02-18
+2022-23,Round 14,Lions,Sharks,7,29,Ellis Park,2023-02-18
+2022-23,Round 14,Zebre,Connacht,34,57,Stadio Sergio Lanfranchi,2023-02-18
+2022-23,Round 6 (rescheduled matches),Sharks,Ulster,24,31,Kings Park Stadium,2023-02-25
+2022-23,Round 6 (rescheduled matches),Lions,Glasgow,35,24,Ellis Park Stadium,2023-02-25
+2022-23,Round 15,Glasgow,Zebre,50,8,Scotstoun Stadium,2023-03-03
+2022-23,Round 15,Munster,Scarlets,49,42,Musgrave Park,2023-03-03
+2022-23,Round 15,Dragons,Connacht,20,22,Rodney Parade,2023-03-04
+2022-23,Round 15,Ospreys,Benetton,20,21,Swansea.com Stadium,2023-03-04
+2022-23,Round 15,Cardiff,Ulster,20,42,Cardiff Arms Park,2023-03-04
+2022-23,Round 15,Bulls,Lions,25,29,Loftus Versfeld Stadium,2023-03-04
+2022-23,Round 15,Stormers,Sharks,29,23,Cape Town Stadium,2023-03-04
+2022-23,Round 15,Edinburgh,Leinster,27,47,DAM Health Stadium,2023-03-04
+2022-23,Round 16,Zebre,Cardiff,30,34,Stadio Sergio Lanfranchi,2023-03-24
+2022-23,Round 16,Leinster,Stormers,22,22,RDS Arena,2023-03-24
+2022-23,Round 16,Benetton,Lions,28,32,Stadio Comunale di Monigo,2023-03-25
+2022-23,Round 16,Ospreys,Dragons,37,18,Swansea.com Stadium,2023-03-25
+2022-23,Round 16,Connacht,Edinburgh,41,26,Galway Sportsgrounds,2023-03-25
+2022-23,Round 16,Scarlets,Sharks,32,20,Parc y Scarlets,2023-03-25
+2022-23,Round 16,Munster,Glasgow,26,38,Thomond Park,2023-03-25
+2022-23,Round 16,Ulster,Bulls,32,23,Ravenhill Stadium,2023-03-25
+2022-23,Round 17,Sharks,Benetton,43,33,Kings Park Stadium,2023-04-14
+2022-23,Round 17,Glasgow,Scarlets,12,9,Scotstoun Stadium,2023-04-14
+2022-23,Round 17,Ulster,Dragons,40,19,Ravenhill Stadium,2023-04-14
+2022-23,Round 17,Connacht,Cardiff,38,19,Galway Sportsgrounds,2023-04-15
+2022-23,Round 17,Edinburgh,Ospreys,45,21,DAM Health Stadium,2023-04-15
+2022-23,Round 17,Bulls,Zebre,78,12,Loftus Versfeld Stadium,2023-04-15
+2022-23,Round 17,Lions,Leinster,36,39,Ellis Park Stadium,2023-04-15
+2022-23,Round 17,Stormers,Munster,24,26,Cape Town Stadium,2023-04-15
+2022-23,Round 18,Stormers,Benetton,38,22,Danie Craven Stadium,2023-04-21
+2022-23,Round 18,Ulster,Edinburgh,28,14,Ravenhill Stadium,2023-04-21
+2022-23,Round 18,Lions,Zebre,50,35,Ellis Park Stadium,2023-04-22
+2022-23,Round 18,Dragons,Scarlets,31,14,Principality Stadium,2023-04-22
+2022-23,Round 18,Bulls,Leinster,62,7,Loftus Versfeld Stadium,2023-04-22
+2022-23,Round 18,Sharks,Munster,22,22,Kings Park Stadium,2023-04-22
+2022-23,Round 18,Ospreys,Cardiff,21,38,Principality Stadium,2023-04-22
+2022-23,Round 18,Glasgow,Connacht,29,27,Scotstoun Stadium,2023-04-22
+2022-23,Quarter-finals,Ulster,Connacht,10,15,Ravenhill Stadium,2023-05-05
+2022-23,Quarter-finals,Stormers,Bulls,33,21,Cape Town Stadium,2023-05-06
+2022-23,Quarter-finals,Leinster,Sharks,35,5,Aviva Stadium,2023-05-06
+2022-23,Quarter-finals,Glasgow,Munster,5,14,Scotstoun Stadium,2023-05-06
+2022-23,Semi-finals,Stormers,Connacht,43,25,Cape Town Stadium,2023-05-13
+2022-23,Semi-finals,Leinster,Munster,15,16,Aviva Stadium,2023-05-13
+2022-23,Final,Stormers,Munster,14,19,Cape Town Stadium,2023-05-27
+2023-24,Round 1,Cardiff,Benetton,22,23,"Cardiff Arms Park, Cardiff",2023-10-21
+2023-24,Round 1,Dragons,Edinburgh,17,22,"Rodney Parade, Newport",2023-10-21
+2023-24,Round 1,Munster,Sharks,34,21,"Thomond Park, Limerick",2023-10-21
+2023-24,Round 1,Connacht,Ospreys,34,26,"The Sportsground, Galway",2023-10-21
+2023-24,Round 1,Zebre,Ulster,36,40,"Stadio Sergio Lanfranchi, Parma",2023-10-21
+2023-24,Round 1,Lions,Stormers,33,35,"Ellis Park Stadium, Johannesburg",2023-10-21
+2023-24,Round 1,Glasgow,Leinster,43,25,"Scotstoun Stadium, Glasgow",2023-10-22
+2023-24,Round 1,Bulls,Scarlets,63,21,"Loftus Versfeld Stadium, Pretoria",2023-10-22
+2023-24,Round 2,Ospreys,Zebre,34,31,"Swansea.com Stadium, Swansea",2023-10-28
+2023-24,Round 2,Connacht,Glasgow,34,26,"The Sportsground, Galway",2023-10-28
+2023-24,Round 2,Stormers,Scarlets,52,7,"Danie Craven Stadium, Stellenbosch",2023-10-28
+2023-24,Round 2,Leinster,Sharks,34,13,"RDS Arena, Dublin",2023-10-28
+2023-24,Round 2,Edinburgh,Lions,17,16,"Edinburgh Rugby Stadium, Edinburgh",2023-10-28
+2023-24,Round 2,Dragons,Cardiff,9,16,"Rodney Parade, Newport",2023-10-29
+2023-24,Round 2,Ulster,Bulls,26,19,"Ravenhill Stadium, Belfast",2023-10-29
+2023-24,Round 2,Benetton,Munster,13,13,"Stadio Comunale di Monigo, Treviso",2023-10-29
+2023-24,Round 3,Glasgow,Stormers,20,9,"Scotstoun Stadium, Glasgow",2023-11-03
+2023-24,Round 3,Ospreys,Sharks,19,5,Twickenham Stoop,2023-11-03
+2023-24,Round 3,Zebre,Bulls,29,54,"Stadio Sergio Lanfranchi, Parma",2023-11-04
+2023-24,Round 3,Leinster,Edinburgh,36,27,"RDS Arena, Dublin",2023-11-04
+2023-24,Round 3,Scarlets,Cardiff,31,25,"Parc y Scarlets, Llanelli",2023-11-04
+2023-24,Round 3,Munster,Dragons,45,14,"Musgrave Park, Cork",2023-11-04
+2023-24,Round 3,Connacht,Ulster,22,20,"The Sportsground, Galway",2023-11-04
+2023-24,Round 3,Benetton,Lions,15,10,"Stadio Comunale di Monigo, Treviso",2023-11-05
+2023-24,Round 4,Ulster,Munster,21,14,"Ravenhill Stadium, Belfast",2023-11-10
+2023-24,Round 4,Zebre,Sharks,12,10,"Stadio Sergio Lanfranchi, Parma",2023-11-10
+2023-24,Round 4,Cardiff,Bulls,12,18,"Cardiff Arms Park, Cardiff",2023-11-10
+2023-24,Round 4,Edinburgh,Connacht,25,22,"Edinburgh Rugby Stadium, Edinburgh",2023-11-11
+2023-24,Round 4,Scarlets,Lions,23,24,"Parc y Scarlets, Llanelli",2023-11-11
+2023-24,Round 4,Benetton,Stormers,20,17,"Stadio Comunale di Monigo, Treviso",2023-11-11
+2023-24,Round 4,Ospreys,Glasgow,23,31,"Swansea.com Stadium, Swansea",2023-11-11
+2023-24,Round 4,Dragons,Leinster,10,33,"Rodney Parade, Newport",2023-11-12
+2023-24,Round 5,Edinburgh,Bulls,31,23,"Edinburgh Rugby Stadium, Edinburgh",2023-11-17
+2023-24,Round 5,Ulster,Lions,24,17,"Ravenhill Stadium, Belfast",2023-11-17
+2023-24,Round 5,Zebre,Cardiff,22,22,"Stadio Sergio Lanfranchi, Parma",2023-11-17
+2023-24,Round 5,Sharks,Connacht,12,13,"Kings Park Stadium, Durban",2023-11-18
+2023-24,Round 5,Dragons,Ospreys,20,5,"Rodney Parade, Newport",2023-11-18
+2023-24,Round 5,Munster,Stormers,10,3,"Thomond Park, Limerick",2023-11-18
+2023-24,Round 5,Leinster,Scarlets,54,5,"RDS Arena, Dublin",2023-11-18
+2023-24,Round 5,Glasgow,Benetton,26,12,"Scotstoun Stadium, Glasgow",2023-11-18
+2023-24,Round 6,Edinburgh,Benetton,22,24,"Edinburgh Rugby Stadium, Edinburgh",2023-11-24
+2023-24,Round 6,Cardiff,Stormers,31,24,"Cardiff Arms Park, Cardiff",2023-11-24
+2023-24,Round 6,Lions,Zebre,61,19,"Ellis Park Stadium, Johannesburg",2023-11-25
+2023-24,Round 6,Bulls,Connacht,53,27,"Loftus Versfeld Stadium, Pretoria",2023-11-25
+2023-24,Round 6,Sharks,Dragons,69,14,"Kings Park Stadium, Durban",2023-11-25
+2023-24,Round 6,Leinster,Munster,21,16,"Aviva Stadium, Dublin",2023-11-25
+2023-24,Round 6,Glasgow,Ulster,33,20,"Scotstoun Stadium, Glasgow",2023-11-25
+2023-24,Round 6,Ospreys,Scarlets,31,9,"Swansea.com Stadium, Swansea",2023-11-26
+2023-24,Round 7,Munster,Glasgow,40,29,"Musgrave Park, Cork",2023-12-01
+2023-24,Round 7,Benetton,Ospreys,18,13,"Stadio Comunale di Monigo, Treviso",2023-12-02
+2023-24,Round 7,Connacht,Leinster,22,24,"The Sportsground, Galway",2023-12-02
+2023-24,Round 7,Ulster,Edinburgh,24,27,"Ravenhill Stadium, Belfast",2023-12-02
+2023-24,Round 7,Stormers,Zebre,31,7,"Danie Craven Stadium, Stellenbosch",2023-12-02
+2023-24,Round 7,Cardiff,Scarlets,23,29,"Cardiff Arms Park, Cardiff",2023-12-02
+2023-24,Round 7,Bulls,Sharks,44,10,"Loftus Versfeld Stadium, Pretoria",2023-12-02
+2023-24,Round 7,Lions,Dragons,49,24,"Ellis Park Stadium, Johannesburg",2023-12-02
+2023-24,Round 8,Glasgow,Edinburgh,22,10,"Scotstoun Stadium, Glasgow",2023-12-22
+2023-24,Round 8,Ulster,Connacht,20,19,"Ravenhill Stadium, Belfast",2023-12-22
+2023-24,Round 8,Zebre,Benetton,24,31,"Stadio Sergio Lanfranchi, Parma",2023-12-23
+2023-24,Round 8,Stormers,Bulls,26,20,"Cape Town Stadium, Cape Town",2023-12-23
+2023-24,Round 8,Cardiff,Dragons,55,21,"Cardiff Arms Park, Cardiff",2023-12-26
+2023-24,Round 8,Scarlets,Ospreys,11,25,"Parc y Scarlets, Llanelli",2023-12-26
+2023-24,Round 8,Munster,Leinster,3,9,"Thomond Park, Limerick",2023-12-26
+2023-24,Round 9,Stormers,Sharks,16,15,"Cape Town Stadium, Cape Town",2023-12-30
+2023-24,Round 9,Edinburgh,Glasgow,19,14,"Murrayfield Stadium, Edinburgh",2023-12-30
+2023-24,Round 9,Benetton,Zebre,36,14,"Stadio Comunale di Monigo, Treviso",2023-12-30
+2023-24,Round 9,Connacht,Munster,22,9,"The Sportsground, Galway",2024-01-01
+2023-24,Round 9,Ospreys,Cardiff,27,21,"Brewery Field, Bridgend",2024-01-01
+2023-24,Round 9,Dragons,Scarlets,13,12,"Rodney Parade, Newport",2024-01-01
+2023-24,Round 9,Leinster,Ulster,21,22,"RDS Arena, Dublin",2024-01-01
+2023-24,Round 8,Sharks,Lions,18,20,"Kings Park Stadium, Durban",2024-01-06
+2023-24,Round 9,Bulls,Lions,30,28,"Loftus Versfeld Stadium, Pretoria",2024-01-27
+2023-24,Round 10,Scarlets,Munster,7,42,"Parc y Scarlets, Llanelli",2024-02-16
+2023-24,Round 10,Zebre,Edinburgh,19,24,"Stadio Sergio Lanfranchi, Parma",2024-02-16
+2023-24,Round 10,Glasgow,Dragons,40,7,"Scotstoun Stadium, Glasgow",2024-02-17
+2023-24,Round 10,Cardiff,Connacht,12,16,"Cardiff Arms Park, Cardiff",2024-02-17
+2023-24,Round 10,Leinster,Benetton,47,18,"RDS Arena, Dublin",2024-02-17
+2023-24,Round 10,Sharks,Stormers,21,25,"Kings Park Stadium, Durban",2024-02-17
+2023-24,Round 10,Lions,Bulls,10,25,"Ellis Park Stadium, Johannesburg",2024-02-17
+2023-24,Round 10,Ospreys,Ulster,19,17,"Swansea.com Stadium, Swansea",2024-02-18
+2023-24,Round 11,Edinburgh,Ospreys,19,15,"Edinburgh Rugby Stadium, Edinburgh",2024-03-01
+2023-24,Round 11,Munster,Zebre,45,29,"Musgrave Park, Cork",2024-03-01
+2023-24,Round 11,Lions,Sharks,40,10,"Ellis Park Stadium, Johannesburg",2024-03-02
+2023-24,Round 11,Benetton,Glasgow,9,19,"Stadio Comunale di Monigo, Treviso",2024-03-02
+2023-24,Round 11,Bulls,Stormers,40,22,"Loftus Versfeld Stadium, Pretoria",2024-03-02
+2023-24,Round 11,Connacht,Scarlets,26,10,"The Sportsground, Galway",2024-03-02
+2023-24,Round 11,Cardiff,Leinster,20,33,"Cardiff Arms Park, Cardiff",2024-03-02
+2023-24,Round 11,Ulster,Dragons,49,26,"Ravenhill Stadium, Belfast",2024-03-02
+2023-24,Round 12,Ospreys,Munster,17,27,"Swansea.com Stadium, Swansea",2024-03-22
+2023-24,Round 12,Glasgow,Cardiff,17,13,"Scotstoun Stadium, Glasgow",2024-03-22
+2023-24,Round 12,Sharks,Ulster,22,12,"Kings Park Stadium, Durban",2024-03-23
+2023-24,Round 12,Scarlets,Benetton,16,13,"Parc y Scarlets, Llanelli",2024-03-23
+2023-24,Round 12,Stormers,Edinburgh,43,21,"Cape Town Stadium, Cape Town",2024-03-23
+2023-24,Round 12,Connacht,Lions,14,38,"The Sportsground, Galway",2024-03-23
+2023-24,Round 12,Zebre,Leinster,7,31,"Stadio Sergio Lanfranchi, Parma",2024-03-23
+2023-24,Round 12,Dragons,Bulls,10,31,"Rodney Parade, Newport",2024-03-23
+2023-24,Round 13,Dragons,Zebre,20,13,"Rodney Parade, Newport",2024-03-29
+2023-24,Round 13,Leinster,Bulls,47,14,"RDS Arena, Dublin",2024-03-29
+2023-24,Round 13,Scarlets,Glasgow,3,45,"Parc y Scarlets, Llanelli",2024-03-30
+2023-24,Round 13,Munster,Cardiff,20,15,"Thomond Park, Limerick",2024-03-30
+2023-24,Round 13,Ospreys,Lions,36,21,"Swansea.com Stadium, Swansea",2024-03-30
+2023-24,Round 13,Benetton,Connacht,18,14,"Stadio Comunale di Monigo, Treviso",2024-03-30
+2023-24,Round 13,Sharks,Edinburgh,23,13,"Kings Park Stadium, Durban",2024-03-30
+2023-24,Round 13,Stormers,Ulster,13,7,"Cape Town Stadium, Cape Town",2024-03-30
+2023-24,Round 14,Ulster,Cardiff,19,17,"Ravenhill Stadium, Belfast",2024-04-19
+2023-24,Round 14,Glasgow,Sharks,21,10,"Scotstoun Stadium, Glasgow",2024-04-19
+2023-24,Round 14,Edinburgh,Scarlets,43,18,"Edinburgh Rugby Stadium, Edinburgh",2024-04-20
+2023-24,Round 14,Stormers,Ospreys,21,27,"Cape Town Stadium, Cape Town",2024-04-20
+2023-24,Round 14,Connacht,Zebre,54,16,"The Sportsground, Galway",2024-04-20
+2023-24,Round 14,Benetton,Dragons,36,19,"Stadio Comunale di Monigo, Treviso",2024-04-20
+2023-24,Round 14,Lions,Leinster,44,12,"Ellis Park Stadium, Johannesburg",2024-04-20
+2023-24,Round 14,Bulls,Munster,22,27,"Loftus Versfeld Stadium, Pretoria",2024-04-20
+2023-24,Round 15,Scarlets,Sharks,27,32,"Parc y Scarlets, Llanelli",2024-04-26
+2023-24,Round 15,Ulster,Benetton,38,34,"Ravenhill Stadium, Belfast",2024-04-26
+2023-24,Round 15,Stormers,Leinster,42,12,"Cape Town Stadium, Cape Town",2024-04-27
+2023-24,Round 15,Zebre,Glasgow,9,40,"Stadio Sergio Lanfranchi, Parma",2024-04-27
+2023-24,Round 15,Bulls,Ospreys,61,24,"Loftus Versfeld Stadium, Pretoria",2024-04-27
+2023-24,Round 15,Cardiff,Edinburgh,7,24,"Cardiff Arms Park, Cardiff",2024-04-27
+2023-24,Round 15,Lions,Munster,13,33,"Ellis Park Stadium, Johannesburg",2024-04-27
+2023-24,Round 15,Dragons,Connacht,27,34,"Rodney Parade, Newport",2024-04-27
+2023-24,Round 16,Edinburgh,Zebre,40,14,"Edinburgh Rugby Stadium, Edinburgh",2024-05-10
+2023-24,Round 16,Dragons,Stormers,21,44,"Rodney Parade, Newport",2024-05-10
+2023-24,Round 16,Leinster,Ospreys,61,14,"RDS Arena, Dublin",2024-05-11
+2023-24,Round 16,Munster,Connacht,47,12,"Thomond Park, Limerick",2024-05-11
+2023-24,Round 16,Lions,Cardiff,34,13,"Ellis Park Stadium, Johannesburg",2024-05-11
+2023-24,Round 16,Sharks,Benetton,24,25,"Kings Park Stadium, Durban",2024-05-11
+2023-24,Round 16,Bulls,Glasgow,40,34,"Loftus Versfeld Stadium, Pretoria",2024-05-11
+2023-24,Round 16,Scarlets,Ulster,20,31,"Parc y Scarlets, Llanelli",2024-05-11
+2023-24,Round 17,Zebre,Scarlets,18,32,"Stadio Sergio Lanfranchi, Parma",2024-05-17
+2023-24,Round 17,Edinburgh,Munster,26,29,"Edinburgh Rugby Stadium, Edinburgh",2024-05-17
+2023-24,Round 17,Sharks,Cardiff,14,36,"Kings Park Stadium, Durban",2024-05-18
+2023-24,Round 17,Connacht,Stormers,12,16,"The Sportsground, Galway",2024-05-18
+2023-24,Round 17,Ulster,Leinster,23,21,"Ravenhill Stadium, Belfast",2024-05-18
+2023-24,Round 17,Ospreys,Dragons,26,13,"Swansea.com Stadium, Swansea",2024-05-18
+2023-24,Round 17,Bulls,Benetton,56,35,"Loftus Versfeld Stadium, Pretoria",2024-05-18
+2023-24,Round 17,Lions,Glasgow,44,21,"Ellis Park Stadium, Johannesburg",2024-05-18
+2023-24,Round 18,Leinster,Connacht,33,7,"RDS Arena, Dublin",2024-05-31
+2023-24,Round 18,Glasgow,Zebre,38,26,"Scotstoun Stadium, Glasgow",2024-05-31
+2023-24,Round 18,Benetton,Edinburgh,31,6,"Stadio Comunale di Monigo, Treviso",2024-06-01
+2023-24,Round 18,Stormers,Lions,29,24,"Cape Town Stadium, Cape Town",2024-06-01
+2023-24,Round 18,Scarlets,Dragons,32,15,Cardiff City Stadium,2024-06-01
+2023-24,Round 18,Sharks,Bulls,14,26,"Kings Park Stadium, Durban",2024-06-01
+2023-24,Round 18,Cardiff,Ospreys,29,33,Cardiff City Stadium,2024-06-01
+2023-24,Round 18,Munster,Ulster,29,24,"Thomond Park, Limerick",2024-06-01
+2023-24,Quarter-finals,Munster,Ospreys,23,7,"Thomond Park, Limerick",2024-06-07
+2023-24,Quarter-finals,Glasgow,Stormers,27,10,"Scotstoun Stadium, Glasgow",2024-06-08
+2023-24,Quarter-finals,Leinster,Ulster,43,20,"Aviva Stadium, Dublin",2024-06-08
+2023-24,Semi-finals,Bulls,Leinster,25,20,"Loftus Versfeld Stadium, Pretoria",2024-06-15
+2023-24,Semi-finals,Munster,Glasgow,10,17,"Thomond Park, Limerick",2024-06-15
+2023-24,Final,Bulls,Glasgow,16,21,"Loftus Versfeld Stadium, Pretoria",2024-06-22
+2024-25,Round 1,Cardiff,Zebre,22,17,"Cardiff Arms Park, Cardiff",2024-09-20
+2024-25,Round 1,Edinburgh,Leinster,31,33,"Hive Stadium, Edinburgh",2024-09-20
+2024-25,Round 1,Dragons,Ospreys,23,21,"Rodney Parade, Newport",2024-09-21
+2024-25,Round 1,Munster,Connacht,35,33,"Thomond Park, Limerick",2024-09-21
+2024-25,Round 1,Benetton,Scarlets,20,20,"Stadio Monigo, Treviso",2024-09-21
+2024-25,Round 1,Ulster,Glasgow,20,19,"Ravenhill Stadium, Belfast",2024-09-21
+2024-25,Round 2,Glasgow,Benetton,42,10,"Scotstoun Stadium, Glasgow",2024-09-27
+2024-25,Round 2,Leinster,Dragons,34,6,"Aviva Stadium, Dublin",2024-09-27
+2024-25,Round 2,Scarlets,Cardiff,15,24,"Parc y Scarlets, Llanelli",2024-09-28
+2024-25,Round 2,Zebre,Munster,42,33,"Stadio Sergio Lanfranchi, Parma",2024-09-28
+2024-25,Round 2,Bulls,Edinburgh,22,16,"Loftus Versfeld Stadium, Pretoria",2024-09-28
+2024-25,Round 2,Ospreys,Stormers,37,24,Brewery Field. Bridgend,2024-09-28
+2024-25,Round 2,Connacht,Sharks,36,30,"The Sportsground, Galway",2024-09-28
+2024-25,Round 2,Lions,Ulster,35,22,"Ellis Park Stadium, Johannesburg",2024-09-28
+2024-25,Round 3,Scarlets,Connacht,23,24,"Parc y Scarlets, Llanelli",2024-10-04
+2024-25,Round 3,Cardiff,Glasgow,36,52,"Cardiff Arms Park, Cardiff",2024-10-04
+2024-25,Round 3,Dragons,Sharks,30,33,"Rodney Parade, Newport",2024-10-05
+2024-25,Round 3,Zebre,Stormers,5,36,"Stadio Sergio Lanfranchi, Parma",2024-10-05
+2024-25,Round 3,Munster,Ospreys,23,0,"Musgrave Park, Cork",2024-10-05
+2024-25,Round 3,Benetton,Leinster,5,35,"Stadio Monigo, Treviso",2024-10-05
+2024-25,Round 3,Bulls,Ulster,47,21,"Loftus Versfeld Stadium, Pretoria",2024-10-05
+2024-25,Round 3,Lions,Edinburgh,55,21,"Ellis Park Stadium, Johannesburg",2024-10-05
+2024-25,Round 4,Glasgow,Zebre,33,3,"Scotstoun Stadium, Glasgow",2024-10-11
+2024-25,Round 4,Benetton,Sharks,38,10,"Stadio Monigo, Treviso",2024-10-12
+2024-25,Round 4,Cardiff,Scarlets,19,25,"Cardiff Arms Park, Cardiff",2024-10-12
+2024-25,Round 4,Edinburgh,Stormers,38,7,"Hive Stadium, Edinburgh",2024-10-12
+2024-25,Round 4,Leinster,Munster,26,12,"Croke Park, Dublin",2024-10-12
+2024-25,Round 4,Ospreys,Bulls,19,29,"Swansea.com Stadium, Swansea",2024-10-12
+2024-25,Round 4,Ulster,Connacht,32,27,"Ravenhill Stadium, Belfast",2024-10-12
+2024-25,Round 4,Dragons,Lions,19,23,"Rodney Parade, Newport",2024-10-13
+2024-25,Round 5,Ulster,Ospreys,36,12,"Ravenhill Stadium, Belfast",2024-10-18
+2024-25,Round 5,Scarlets,Bulls,23,22,"Parc y Scarlets, Llanelli",2024-10-18
+2024-25,Round 5,Zebre,Lions,9,10,"Stadio Sergio Lanfranchi, Parma",2024-10-19
+2024-25,Round 5,Sharks,Glasgow,28,24,"Kings Park Stadium, Durban",2024-10-19
+2024-25,Round 5,Stormers,Munster,34,19,"Cape Town Stadium, Cape Town",2024-10-19
+2024-25,Round 5,Edinburgh,Cardiff,27,8,"Hive Stadium, Edinburgh",2024-10-19
+2024-25,Round 5,Connacht,Leinster,12,33,"The Sportsground, Galway",2024-10-19
+2024-25,Round 5,Dragons,Benetton,21,31,"Rodney Parade, Newport",2024-10-19
+2024-25,Round 6,Scarlets,Zebre,30,8,"Parc y Scarlets, Llanelli",2024-10-25
+2024-25,Round 6,Benetton,Bulls,15,17,"Stadio Monigo, Treviso",2024-10-25
+2024-25,Round 6,Leinster,Lions,24,6,"Aviva Stadium, Dublin",2024-10-26
+2024-25,Round 6,Cardiff,Ulster,21,19,"Cardiff Arms Park, Cardiff",2024-10-26
+2024-25,Round 6,Connacht,Dragons,31,7,"The Sportsground, Galway",2024-10-26
+2024-25,Round 6,Sharks,Munster,41,24,"Kings Park Stadium, Durban",2024-10-26
+2024-25,Round 6,Stormers,Glasgow,17,28,"Danie Craven Stadium, Stellenbosch",2024-10-26
+2024-25,Round 6,Ospreys,Edinburgh,22,13,"Brewery Field, Bridgend",2024-10-26
+2024-25,Round 7,Glasgow,Scarlets,17,15,"Scotstoun Stadium, Glasgow",2024-11-29
+2024-25,Round 7,Ulster,Leinster,20,27,"Ravenhill Stadium, Belfast",2024-11-29
+2024-25,Round 7,Zebre,Ospreys,22,17,"Stadio Sergio Lanfranchi, Parma",2024-11-30
+2024-25,Round 7,Sharks,Stormers,21,15,"Kings Park Stadium, Durban",2024-11-30
+2024-25,Round 7,Cardiff,Dragons,31,23,"Cardiff Arms Park, Cardiff",2024-11-30
+2024-25,Round 7,Connacht,Bulls,14,28,"The Sportsground, Galway",2024-11-30
+2024-25,Round 7,Munster,Lions,17,10,"Thomond Park, Limerick",2024-11-30
+2024-25,Round 7,Edinburgh,Benetton,50,33,"Hive Stadium, Edinburgh",2024-11-30
+2024-25,Round 8,Ulster,Munster,19,22,"Ravenhill Stadium, Belfast",2024-12-20
+2024-25,Round 8,Leinster,Connacht,20,12,"Aviva Stadium, Dublin",2024-12-21
+2024-25,Round 8,Benetton,Zebre,11,10,"Stadio Monigo, Treviso",2024-12-21
+2024-25,Round 8,Stormers,Lions,29,10,"Cape Town Stadium, Cape Town",2024-12-21
+2024-25,Round 8,Sharks,Bulls,20,17,"Kings Park Stadium, Durban",2024-12-21
+2024-25,Round 8,Ospreys,Scarlets,23,22,"Swansea.com Stadium, Swansea",2024-12-21
+2024-25,Round 8,Glasgow,Edinburgh,33,14,"Hampden Park, Glasgow",2024-12-22
+2024-25,Round 8,Dragons,Cardiff,22,24,"Rodney Parade, Newport",2024-12-26
+2024-25,Round 9,Munster,Leinster,7,28,"Thomond Park, Limerick",2024-12-27
+2024-25,Round 9,Edinburgh,Glasgow,10,7,"Murrayfield Stadium, Edinburgh",2024-12-28
+2024-25,Round 9,Connacht,Ulster,7,17,"The Sportsground, Galway",2024-12-28
+2024-25,Round 9,Zebre,Benetton,12,24,"Stadio Sergio Lanfranchi, Parma",2024-12-28
+2024-25,Round 9,Stormers,Sharks,24,20,"Cape Town Stadium, Cape Town",2024-12-28
+2024-25,Round 9,Cardiff,Ospreys,13,13,"Cardiff Arms Park, Cardiff",2025-01-01
+2024-25,Round 9,Scarlets,Dragons,32,15,"Parc y Scarlets, Llanelli",2025-01-01
+2024-25,Round 10,Ospreys,Benetton,43,0,"Swansea.com Stadium, Swansea",2025-01-24
+2024-25,Round 10,Cardiff,Sharks,22,42,"Cardiff Arms Park, Cardiff",2025-01-25
+2024-25,Round 10,Dragons,Munster,19,38,"Rodney Parade, Newport",2025-01-25
+2024-25,Round 10,Leinster,Stormers,36,12,"Aviva Stadium, Dublin",2025-01-25
+2024-25,Round 10,Scarlets,Edinburgh,30,24,"Parc y Scarlets, Llanelli",2025-01-25
+2024-25,Round 10,Lions,Bulls,22,35,"Ellis Park Stadium, Johannesburg",2025-01-25
+2024-25,Round 10,Glasgow,Connacht,22,19,"Scotstoun Stadium, Glasgow",2025-01-26
+2024-25,Round 10,Ulster,Zebre,14,15,"Ravenhill Stadium, Belfast",2025-01-26
+2024-25,Round 1,Stormers,Bulls,32,33,"Cape Town Stadium, Cape Town",2025-02-08
+2024-25,Round 11,Ospreys,Leinster,19,22,"Swansea.com Stadium, Swansea",2025-02-14
+2024-25,Round 11,Edinburgh,Zebre,17,22,"Hive Stadium, Edinburgh",2025-02-14
+2024-25,Round 11,Benetton,Ulster,34,19,"Stadio Monigo, Treviso",2025-02-15
+2024-25,Round 11,Munster,Scarlets,29,8,"Thomond Park, Limerick",2025-02-15
+2024-25,Round 11,Bulls,Sharks,19,29,"Loftus Versfeld Stadium, Pretoria",2025-02-15
+2024-25,Round 11,Connacht,Cardiff,24,19,"The Sportsground, Galway",2025-02-15
+2024-25,Round 11,Lions,Stormers,30,23,"Ellis Park Stadium, Johannesburg",2025-02-15
+2024-25,Round 11,Dragons,Glasgow,20,45,"Rodney Parade, Newport",2025-02-16
+2024-25,Round 9,Bulls,Lions,31,19,"Loftus Versfeld Stadium, Pretoria",2025-02-22
+2024-25,Round 12,Zebre,Dragons,31,21,"Stadio Sergio Lanfranchi, Parma",2025-02-28
+2024-25,Round 12,Munster,Edinburgh,28,34,"Musgrave Park, Cork",2025-02-28
+2024-25,Round 12,Lions,Sharks,38,14,"Ellis Park Stadium, Johannesburg",2025-03-01
+2024-25,Round 12,Bulls,Stormers,16,19,"Loftus Versfeld Stadium, Pretoria",2025-03-01
+2024-25,Round 12,Leinster,Cardiff,42,24,"Aviva Stadium, Dublin",2025-03-01
+2024-25,Round 12,Ulster,Scarlets,30,28,"Ravenhill Stadium, Belfast",2025-03-01
+2024-25,Round 12,Connacht,Benetton,38,30,"The Sportsground, Galway",2025-03-01
+2024-25,Round 12,Glasgow,Ospreys,31,32,"Scotstoun Stadium, Glasgow",2025-03-01
+2024-25,Round 1,Sharks,Lions,25,22,Hollywoodbets Kings Park,2025-03-08
+2024-25,Round 13,Cardiff,Lions,20,17,"Cardiff Arms Park, Cardiff",2025-03-21
+2024-25,Round 13,Glasgow,Munster,28,25,Scotstoun Stadium,2025-03-21
+2024-25,Round 13,Scarlets,Stormers,17,29,"Parc y Scarlets, Llanelli",2025-03-22
+2024-25,Round 13,Ospreys,Connacht,43,40,"Swansea.com Stadium, Swansea",2025-03-22
+2024-25,Round 13,Dragons,Ulster,30,34,"Rodney Parade, Newport",2025-03-22
+2024-25,Round 13,Sharks,Zebre,35,34,"Kings Park Stadium, Durban",2025-03-22
+2024-25,Round 13,Benetton,Edinburgh,21,18,"Stadio Monigo, Treviso",2025-03-22
+2024-25,Round 13,Bulls,Leinster,21,20,"Loftus Versfeld Stadium, Pretoria",2025-03-22
+2024-25,Round 14,Ulster,Stormers,38,34,"Ravenhill Stadium, Belfast",2025-03-28
+2024-25,Round 14,Edinburgh,Dragons,38,5,"Hive Stadium, Edinburgh",2025-03-28
+2024-25,Round 14,Sharks,Leinster,7,10,"Kings Park Stadium, Durban",2025-03-29
+2024-25,Round 14,Scarlets,Ospreys,38,22,"Parc y Scarlets, Llanelli",2025-03-29
+2024-25,Round 14,Benetton,Cardiff,20,19,"Stadio Monigo, Treviso",2025-03-29
+2024-25,Round 14,Connacht,Munster,24,30,"MacHale Park, Castlebar",2025-03-29
+2024-25,Round 14,Bulls,Zebre,63,24,"Loftus Versfeld Stadium, Pretoria",2025-03-29
+2024-25,Round 14,Glasgow,Lions,42,0,"Scotstoun Stadium, Glasgow",2025-03-29
+2024-25,Round 15,Edinburgh,Sharks,17,18,"Hive Stadium, Edinburgh",2025-04-18
+2024-25,Round 15,Leinster,Ulster,41,17,"Aviva Stadium, Dublin",2025-04-19
+2024-25,Round 15,Zebre,Glasgow,6,14,"Stadio Sergio Lanfranchi, Parma",2025-04-19
+2024-25,Round 15,Dragons,Scarlets,23,31,"Millennium Stadium, Cardiff",2025-04-19
+2024-25,Round 15,Ospreys,Cardiff,19,36,"Millennium Stadium, Cardiff",2025-04-19
+2024-25,Round 15,Stormers,Connacht,34,29,"Cape Town Stadium, Cape Town",2025-04-19
+2024-25,Round 15,Lions,Benetton,31,42,"Ellis Park Stadium, Johannesburg",2025-04-19
+2024-25,Round 15,Munster,Bulls,13,16,"Thomond Park, Limerick",2025-04-19
+2024-25,Round 16,Glasgow,Bulls,19,26,"Scotstoun Stadium, Glasgow",2025-04-25
+2024-25,Round 16,Cardiff,Munster,26,21,Cardiff Arms Park,2025-04-25
+2024-25,Round 16,Zebre,Edinburgh,25,25,"Stadio Sergio Lanfranchi, Parma",2025-04-25
+2024-25,Round 16,Lions,Connacht,26,7,"Ellis Park Stadium, Johannesburg",2025-04-26
+2024-25,Round 16,Ospreys,Dragons,57,24,Swansea.com Stadium,2025-04-26
+2024-25,Round 16,Stormers,Benetton,56,5,Cape Town Stadium,2025-04-26
+2024-25,Round 16,Scarlets,Leinster,35,22,"Parc y Scarlets, Llanelli",2025-04-26
+2024-25,Round 16,Ulster,Sharks,19,22,"Ravenhill Stadium, Belfast",2025-04-26
+2024-25,Round 17,Munster,Ulster,38,20,"Thomond Park, Limerick",2025-05-09
+2024-25,Round 17,Sharks,Ospreys,29,10,"Kings Park Stadium, Durban",2025-05-09
+2024-25,Round 17,Bulls,Cardiff,45,21,"Loftus Versfeld Stadium, Pretoria",2025-05-10
+2024-25,Round 17,Stormers,Dragons,48,12,Cape Town Stadium,2025-05-10
+2024-25,Round 17,Leinster,Zebre,76,5,"Aviva Stadium, Dublin",2025-05-10
+2024-25,Round 17,Benetton,Glasgow,33,7,"Stadio Monigo, Treviso",2025-05-10
+2024-25,Round 17,Connacht,Edinburgh,21,31,"The Sportsground, Galway",2025-05-10
+2024-25,Round 17,Lions,Scarlets,19,32,"Ellis Park Stadium, Johannesburg",2025-05-11
+2024-25,Round 18,Stormers,Cardiff,34,24,Cape Town Stadium,2025-05-16
+2024-25,Round 18,Edinburgh,Ulster,47,17,Edinburgh Rugby Stadium,2025-05-16
+2024-25,Round 18,Munster,Benetton,30,21,"Musgrave Park, Cork",2025-05-16
+2024-25,Round 18,Leinster,Glasgow,13,5,"Aviva Stadium, Dublin",2025-05-17
+2024-25,Round 18,Sharks,Scarlets,12,3,"Kings Park Stadium, Durban",2025-05-17
+2024-25,Round 18,Bulls,Dragons,55,15,"Loftus Versfeld Stadium, Pretoria",2025-05-17
+2024-25,Round 18,Lions,Ospreys,29,28,"Ellis Park Stadium, Johannesburg",2025-05-17
+2024-25,Round 18,Zebre,Connacht,12,22,"Stadio Sergio Lanfranchi, Parma",2025-05-17
+2024-25,Quarter-finals,Glasgow,Stormers,36,18,"Scotstoun Stadium, Glasgow",2025-05-30
+2024-25,Quarter-finals,Bulls,Edinburgh,42,33,"Loftus Versfeld Stadium, Pretoria",2025-05-31
+2024-25,Quarter-finals,Leinster,Scarlets,33,21,"Aviva Stadium, Dublin",2025-05-31
+2024-25,Quarter-finals,Sharks,Munster,24,24,"Kings Park Stadium, Durban",2025-05-31
+2024-25,Semi-finals,Leinster,Glasgow,37,19,"Aviva Stadium, Dublin",2025-06-07
+2024-25,Semi-finals,Bulls,Sharks,25,13,"Loftus Versfeld Stadium, Pretoria",2025-06-07
+2024-25,URC Grand Final,Leinster,Bulls,32,7,"Croke Park, Dublin",2025-06-14
+2025-26,Round 1,Glasgow,Sharks,35,19,"Scotstoun Stadium, Glasgow",2025-09-26
+2025-26,Round 1,Stormers,Leinster,35,0,Cape Town Stadium,2025-09-26
+2025-26,Round 1,Ulster,Dragons,42,21,"Ravenhill Stadium, Belfast",2025-09-26
+2025-26,Round 1,Bulls,Ospreys,53,40,"Loftus Versfeld Stadium, Pretoria",2025-09-27
+2025-26,Round 1,Zebre,Edinburgh,31,28,"Stadio Sergio Lanfranchi, Parma",2025-09-27
+2025-26,Round 1,Scarlets,Munster,21,34,"Parc y Scarlets, Llanelli",2025-09-27
+2025-26,Round 1,Cardiff,Lions,33,20,Cardiff Arms Park,2025-09-27
+2025-26,Round 1,Connacht,Benetton,26,15,"The Sportsground, Galway",2025-09-27
+2025-26,Round 2,Dragons,Sharks,17,17,"Rodney Parade, Newport",2025-10-03
+2025-26,Round 2,Stormers,Ospreys,26,10,Cape Town Stadium,2025-10-03
+2025-26,Round 2,Munster,Cardiff,23,20,"Thomond Park, Limerick",2025-10-04
+2025-26,Round 2,Benetton,Glasgow,16,14,"Stadio Comunale di Monigo, Treviso",2025-10-04
+2025-26,Round 2,Bulls,Leinster,39,31,"Loftus Versfeld Stadium, Pretoria",2025-10-04
+2025-26,Round 2,Zebre,Lions,22,20,"Stadio Sergio Lanfranchi, Parma",2025-10-05
+2025-26,Round 3,Munster,Edinburgh,20,19,"Musgrave Park, Cork",2025-10-10
+2025-26,Round 3,Scarlets,Stormers,0,34,"Parc y Scarlets, Llanelli",2025-10-10
+2025-26,Round 3,Cardiff,Connacht,14,8,Cardiff Arms Park,2025-10-11
+2025-26,Round 3,Benetton,Lions,41,15,"Stadio Comunale di Monigo, Treviso",2025-10-11
+2025-26,Round 3,Ospreys,Zebre,24,0,"Brewery Field, Bridgend",2025-10-11
+2025-26,Round 3,Glasgow,Dragons,49,0,"Scotstoun Stadium, Glasgow",2025-10-11
+2025-26,Round 3,Leinster,Sharks,31,5,"Aviva Stadium, Dublin",2025-10-11
+2025-26,Round 3,Ulster,Bulls,28,7,"Ravenhill Stadium, Belfast",2025-10-11
+2025-26,Round 4,Edinburgh,Benetton,43,0,Edinburgh Rugby Stadium,2025-10-17
+2025-26,Round 4,Connacht,Bulls,27,28,"The Sportsground, Galway",2025-10-17
+2025-26,Round 4,Dragons,Cardiff,17,24,"Rodney Parade, Newport",2025-10-17
+2025-26,Round 4,Ospreys,Glasgow,17,42,"Brewery Field, Bridgend",2025-10-18
+2025-26,Round 4,Leinster,Munster,14,31,"Croke Park, Dublin",2025-10-18
+2025-26,Round 4,Sharks,Ulster,26,34,"Kings Park Stadium, Durban",2025-10-18
+2025-26,Round 4,Zebre,Stormers,13,31,"Stadio Sergio Lanfranchi, Parma",2025-10-18
+2025-26,Round 4,Lions,Scarlets,29,18,"Ellis Park Stadium, Johannesburg",2025-10-18
+2025-26,Round 5,Glasgow,Bulls,21,12,"Scotstoun Stadium, Glasgow",2025-10-24
+2025-26,Round 5,Munster,Connacht,17,15,"Thomond Park, Limerick",2025-10-25
+2025-26,Round 5,Dragons,Ospreys,19,19,"Rodney Parade, Newport",2025-10-25
+2025-26,Round 5,Cardiff,Edinburgh,20,19,Cardiff Arms Park,2025-10-25
+2025-26,Round 5,Benetton,Stormers,16,31,"Stadio Comunale di Monigo, Treviso",2025-10-25
+2025-26,Round 5,Lions,Ulster,49,31,"Ellis Park Stadium, Johannesburg",2025-10-25
+2025-26,Round 5,Sharks,Scarlets,29,19,"Kings Park Stadium, Durban",2025-10-25
+2025-26,Round 5,Leinster,Zebre,50,26,"Aviva Stadium, Dublin",2025-10-25
+2025-26,Round 6,Ulster,Benetton,47,13,"Ravenhill Stadium, Belfast",2025-11-28
+2025-26,Round 6,Dragons,Leinster,10,24,"Rodney Parade, Newport",2025-11-28
+2025-26,Round 6,Bulls,Lions,33,43,"Loftus Versfeld Stadium, Pretoria",2025-11-29
+2025-26,Round 6,Zebre,Cardiff,14,29,"Stadio Sergio Lanfranchi, Parma",2025-11-29
+2025-26,Round 6,Munster,Stormers,21,27,"Thomond Park, Limerick",2025-11-29
+2025-26,Round 6,Edinburgh,Ospreys,19,17,Edinburgh Rugby Stadium,2025-11-29
+2025-26,Round 6,Connacht,Sharks,44,17,"The Sportsground, Galway",2025-11-29
+2025-26,Round 6,Scarlets,Glasgow,23,0,"Parc y Scarlets, Llanelli",2025-11-29
+2025-26,Round 7,Cardiff,Scarlets,17,21,Cardiff Arms Park,2025-12-19
+2025-26,Round 7,Leinster,Ulster,24,20,"Aviva Stadium, Dublin",2025-12-19
+2025-26,Round 7,Benetton,Zebre,21,15,"Stadio Comunale di Monigo, Treviso",2025-12-20
+2025-26,Round 7,Glasgow,Edinburgh,24,12,"Hampden Park, Glasgow",2025-12-20
+2025-26,Round 7,Sharks,Bulls,21,12,"Kings Park Stadium, Durban",2025-12-20
+2025-26,Round 7,Dragons,Connacht,48,28,"Rodney Parade, Newport",2025-12-20
+2025-26,Round 7,Stormers,Lions,34,27,Cape Town Stadium,2025-12-20
+2025-26,Round 7,Ospreys,Munster,10,26,"Brewery Field, Bridgend",2025-12-20
+2025-26,Round 8,Scarlets,Ospreys,19,26,"Parc y Scarlets, Llanelli",2025-12-26
+2025-26,Round 8,Cardiff,Dragons,22,19,Cardiff Arms Park,2025-12-26
+2025-26,Round 8,Zebre,Benetton,23,37,"Stadio Sergio Lanfranchi, Parma",2025-12-27
+2025-26,Round 8,Edinburgh,Glasgow,3,21,"Murrayfield Stadium, Edinburgh",2025-12-27
+2025-26,Round 8,Connacht,Ulster,24,29,"The Sportsground, Galway",2025-12-27
+2025-26,Round 8,Munster,Leinster,8,13,"Thomond Park, Limerick",2025-12-27
+2025-26,Round 9,Ospreys,Cardiff,33,22,"Brewery Field, Bridgend",2026-01-01
+2025-26,Round 9,Dragons,Scarlets,28,5,"Rodney Parade, Newport",2026-01-01
+2025-26,Round 9,Ulster,Munster,28,3,"Ravenhill Stadium, Belfast",2026-01-02
+2025-26,Round 9,Glasgow,Zebre,47,10,"Scotstoun Stadium, Glasgow",2026-01-03
+2025-26,Round 9,Leinster,Connacht,52,17,"Aviva Stadium, Dublin",2026-01-03
+2025-26,Round 9,Benetton,Edinburgh,14,15,"Stadio Comunale di Monigo, Treviso",2026-01-03
+2025-26,Round 9,Sharks,Lions,22,23,"Kings Park Stadium, Durban",2026-01-03
+2025-26,Round 9,Stormers,Bulls,13,8,Cape Town Stadium,2026-01-03
+2025-26,Round 10,Ospreys,Lions,24,24,"Brewery Field, Bridgend",2026-01-23
+2025-26,Round 10,Munster,Dragons,22,20,"Musgrave Park, Cork",2026-01-23
+2025-26,Round 10,Edinburgh,Bulls,17,19,Edinburgh Rugby Stadium,2026-01-23
+2025-26,Round 10,Connacht,Leinster,23,34,"The Sportsground, Galway",2026-01-24
+2025-26,Round 10,Zebre,Glasgow,21,26,"Stadio Sergio Lanfranchi, Parma",2026-01-24
+2025-26,Round 10,Cardiff,Benetton,17,8,Cardiff Arms Park,2026-01-24
+2025-26,Round 10,Scarlets,Ulster,27,22,"Parc y Scarlets, Llanelli",2026-01-24
+2025-26,Round 10,Stormers,Sharks,19,30,Cape Town Stadium,2026-01-24
+2025-26,Round 11,Benetton,Scarlets,20,20,"Stadio Comunale di Monigo, Treviso",2026-01-30
+2025-26,Round 11,Glasgow,Munster,31,22,"Scotstoun Stadium, Glasgow",2026-01-30
+2025-26,Round 11,Zebre,Connacht,15,31,"Stadio Sergio Lanfranchi, Parma",2026-01-31
+2025-26,Round 11,Lions,Bulls,17,52,"Ellis Park Stadium, Johannesburg",2026-01-31
+2025-26,Round 11,Sharks,Stormers,36,24,"Kings Park Stadium, Durban",2026-01-31
+2025-26,Round 11,Leinster,Edinburgh,28,20,"Aviva Stadium, Dublin",2026-01-31
+2025-26,Round 11,Ospreys,Dragons,19,13,"Brewery Field, Bridgend",2026-01-31
+2025-26,Round 11,Ulster,Cardiff,21,14,"Ravenhill Stadium, Belfast",2026-01-31
+2025-26,Round 8,Lions,Sharks,34,22,"Ellis Park Stadium, Johannesburg",2026-02-21
+2025-26,Round 12,Cardiff,Leinster,8,7,Cardiff Arms Park,2026-02-27
+2025-26,Round 12,Edinburgh,Scarlets,24,19,Edinburgh Rugby Stadium,2026-02-27
+2025-26,Round 12,Lions,Stormers,24,10,"Ellis Park Stadium, Johannesburg",2026-02-28
+2025-26,Round 12,Dragons,Benetton,15,15,"Rodney Parade, Newport",2026-02-28
+2025-26,Round 12,Ospreys,Ulster,21,10,"Brewery Field, Bridgend",2026-02-28
+2025-26,Round 12,Munster,Zebre,21,7,"Thomond Park, Limerick",2026-02-28
+2025-26,Round 12,Bulls,Sharks,41,12,"Loftus Versfeld Stadium, Pretoria",2026-02-28
+2025-26,Round 12,Connacht,Glasgow,15,10,"The Sportsground, Galway",2026-02-28
+2025-26,Round 2,Connacht,Scarlets,31,14,"The Sportsground, Galway",2026-03-13
+2025-26,Round 2,Edinburgh,Ulster,19,40,Edinburgh Rugby Stadium,2026-03-13
+2025-26,Round 8,Bulls,Stormers,19,32,"Loftus Versfeld Stadium, Pretoria",2026-03-14
+2025-26,Round 13,Bulls,Cardiff,40,7,"Loftus Versfeld Stadium, Pretoria",2026-03-20
+2025-26,Round 13,Scarlets,Zebre,36,17,"Parc y Scarlets, Llanelli",2026-03-20
+2025-26,Round 13,Ulster,Connacht,19,26,"Ravenhill Stadium, Belfast",2026-03-20
+2025-26,Round 13,Glasgow,Leinster,38,17,"Scotstoun Stadium, Glasgow",2026-03-21
+2025-26,Round 13,Benetton,Ospreys,31,19,"Stadio Comunale di Monigo, Treviso",2026-03-21
+2025-26,Round 13,Lions,Edinburgh,54,17,"Ellis Park Stadium, Johannesburg",2026-03-21
+2025-26,Round 13,Sharks,Munster,45,0,"Kings Park Stadium, Durban",2026-03-21
+2025-26,Round 13,Stormers,Dragons,29,21,"Cape Town Stadium, Cape Town",2026-03-22
+2025-26,Round 14,Sharks,Cardiff,21,15,"Kings Park Stadium, Durban",2026-03-27
+2025-26,Round 14,Glasgow,Benetton,31,10,"Scotstoun Stadium, Glasgow",2026-03-27
+2025-26,Round 14,Leinster,Scarlets,36,19,"Aviva Stadium, Dublin",2026-03-27
+2025-26,Round 14,Bulls,Munster,34,31,"Loftus Versfeld Stadium, Pretoria",2026-03-28
+2025-26,Round 14,Connacht,Ospreys,21,14,"The Sportsground, Galway",2026-03-28
+2025-26,Round 14,Lions,Dragons,42,26,"Ellis Park Stadium, Johannesburg",2026-03-28
+2025-26,Round 14,Stormers,Edinburgh,33,14,Cape Town Stadium,2026-03-28
+2025-26,Round 14,Zebre,Ulster,12,28,"Stadio Sergio Lanfranchi, Parma",2026-03-28
+2025-26,Round 15,Dragons,Bulls,7,47,"Rodney Parade, Newport",2026-04-17
+2025-26,Round 15,Ulster,Leinster,21,29,"Ravenhill Stadium, Belfast",2026-04-17
+2025-26,Round 15,Edinburgh,Zebre,31,30,Edinburgh Rugby Stadium,2026-04-17
+2025-26,Round 15,Stormers,Connacht,24,33,Cape Town Stadium,2026-04-18
+2025-26,Round 15,Lions,Glasgow,54,12,"Ellis Park Stadium, Johannesburg",2026-04-18
+2025-26,Round 15,Scarlets,Cardiff,24,28,"Parc y Scarlets, Llanelli",2026-04-18
+2025-26,Round 15,Benetton,Munster,15,45,"Stadio Comunale di Monigo, Treviso",2026-04-18
+2025-26,Round 15,Ospreys,Sharks,21,17,"Brewery Field, Bridgend",2026-04-18
+2025-26,Round 16,Edinburgh,Sharks,33,28,Edinburgh Rugby Stadium,2026-04-24
+2025-26,Round 16,Zebre,Dragons,18,19,"Stadio Sergio Lanfranchi, Parma",2026-04-24
+2025-26,Round 16,Cardiff,Ospreys,24,21,Cardiff Arms Park,2026-04-24
+2025-26,Round 16,Scarlets,Bulls,21,23,"Parc y Scarlets, Llanelli",2026-04-25
+2025-26,Round 16,Benetton,Leinster,29,26,"Stadio Comunale di Monigo, Treviso",2026-04-25
+2025-26,Round 16,Lions,Connacht,33,21,"Ellis Park Stadium, Johannesburg",2026-04-25
+2025-26,Round 16,Stormers,Glasgow,48,12,Cape Town Stadium,2026-04-25
+2025-26,Round 16,Munster,Ulster,41,14,"Thomond Park, Limerick",2026-04-25
+2025-26,Round 17,Glasgow,Cardiff,40,17,"Scotstoun Stadium, Glasgow",2026-05-08
+2025-26,Round 17,Ulster,Stormers,38,38,"Ravenhill Stadium, Belfast",2026-05-08
+2025-26,Round 17,Bulls,Zebre,54,19,"Loftus Versfeld Stadium, Pretoria",2026-05-09
+2025-26,Round 17,Sharks,Benetton,46,7,"Kings Park Stadium, Durban",2026-05-09
+2025-26,Round 17,Ospreys,Scarlets,27,20,"Brewery Field, Bridgend",2026-05-09
+2025-26,Round 17,Leinster,Lions,31,7,"Aviva Stadium, Dublin",2026-05-09
+2025-26,Round 17,Dragons,Edinburgh,15,24,"Rodney Parade, Newport",2026-05-09
+2025-26,Round 17,Connacht,Munster,26,7,"The Sportsground, Galway",2026-05-09
+2025-26,Round 18,Edinburgh,Connacht,5,26,Edinburgh Rugby Stadium,2026-05-15
+2025-26,Round 18,Cardiff,Stormers,22,16,Cardiff Arms Park,2026-05-15
+2025-26,Round 18,Ulster,Glasgow,22,26,"Ravenhill Stadium, Belfast",2026-05-15
+2025-26,Round 18,Sharks,Zebre,54,19,"Kings Park Stadium, Durban",2026-05-16
+2025-26,Round 18,Bulls,Benetton,45,19,"Loftus Versfeld Stadium, Pretoria",2026-05-16
+2025-26,Round 18,Leinster,Ospreys,68,14,"Aviva Stadium, Dublin",2026-05-16
+2025-26,Round 18,Scarlets,Dragons,35,35,"Parc y Scarlets, Llanelli",2026-05-16
+2025-26,Round 18,Munster,Lions,24,17,"Thomond Park, Limerick",2026-05-16
+2025-26,Quarter-finals,Glasgow,Connacht,33,21,"Scotstoun Stadium, Glasgow",2026-05-29
+2025-26,Quarter-finals,Stormers,Cardiff,44,21,"Cape Town Stadium, Cape Town",2026-05-30
+2025-26,Quarter-finals,Bulls,Munster,45,14,"Loftus Versfeld Stadium, Pretoria",2026-05-30
+2025-26,Quarter-finals,Leinster,Lions,59,10,"Aviva Stadium, Dublin",2026-05-30
+2025-26,Semi-finals,Leinster,Stormers,20,11,"Aviva Stadium, Dublin",2026-06-06
+2025-26,Semi-finals,Glasgow,Bulls,21,22,"Murrayfield Stadium, Edinburgh",2026-06-06
+2025-26,Grand Final,Leinster,Bulls,36,7,"Croke Park, Dublin",2026-06-19
