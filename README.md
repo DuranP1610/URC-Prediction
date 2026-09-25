@@ -2,7 +2,7 @@
 
 Predicting United Rugby Championship match outcomes with a points-based Elo model and an ML model that learns what Elo misses.
 
-**Status:** Elo (Model A) and ML model (Model B) built and evaluated. Both are predicting the 2026/27 season live, with every prediction logged before kickoff.
+**Status:** Elo (Model A) and ML model (Model B) built, evaluated and significance-tested. Both are predicting the 2026/27 season live, with every prediction logged before kickoff.
 
 ## Key finding
 
@@ -34,6 +34,20 @@ margin = 5.7 + 1.08*elo_diff + 3.09*cross_continent + 3.37*altitude
 - Home teams win 70% of URC matches, so accuracy barely separates the models. Brier score and log loss (the quality of the probabilities) are the metrics that matter.
 - Travel and altitude improve on Elo across every probability metric.
 - Gradient boosting overfits with about 450 training matches.
+
+### Is the improvement real?
+
+Paired bootstrap (10,000 resamples of the 151 test matches):
+
+| Metric | Improvement (Elo − Model B) | 95% CI | P(Model B better) |
+|---|---|---|---|
+| Log loss | 0.0165 | [0.0028, 0.0299] | 99% |
+| Brier | 0.0057 | [0.0001, 0.0113] | 98% |
+| Margin error | 0.34 pts | [−0.01, 0.69] | 97% |
+
+Model B's improvement is modest but unlikely to be luck. The clearest gain is in log loss, which suggests B mainly avoids being confidently wrong in travel and altitude games.
+
+**Caveat:** the feature selection looked at data that included the test season, and the final model was picked after seeing the test scores. The live 2026/27 season is therefore the true out-of-sample confirmation.
 
 ### Choosing Model B
 
@@ -87,6 +101,7 @@ Every round, both models' predictions are written to `data/predictions_log.csv` 
 | `backtest.py` | Replays history, grid-searches Elo settings, scores on the test season |
 | `features.py` | Builds the leakage-free feature table → `data/features.csv` |
 | `model_b.py` | Trains and compares ML models against Elo |
+| `bootstrap.py` | Paired bootstrap significance test: Model B vs Elo |
 
 ## Usage
 
@@ -98,6 +113,7 @@ python scrape_history.py      # fetch historical results
 python backtest.py            # tune + evaluate Elo
 python features.py            # build features
 python model_b.py             # compare models
+python bootstrap.py           # significance test
 
 # weekly live loop
 python urc.py predict <round>                                          # before kickoff
@@ -111,7 +127,7 @@ python urc.py history
 - [x] Historical data (753 matches)
 - [x] Feature engineering + ML comparison
 - [x] Live predictions: Elo + Model B side by side
-- [ ] Bootstrap significance test (Model B vs Elo)
+- [x] Bootstrap significance test (Model B vs Elo)
 - [ ] Monte Carlo season simulation (playoff probabilities)
-- [ ] Rating-over-time charts
+- [ ] Findings notebook with charts
 - [ ] Live 2026/27 results vs bookmakers
