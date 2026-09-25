@@ -2,13 +2,13 @@
 
 Predicting United Rugby Championship match outcomes with a points-based Elo model and an ML model that learns what Elo misses.
 
-**Status:** Elo (Model A) and ML comparison (Model B) done. Live 2026/27 predictions in progress.
+**Status:** Elo (Model A) and ML model (Model B) built and evaluated. Both are predicting the 2026/27 season live, with every prediction logged before kickoff.
 
 ## Key finding
 
 **Home advantage in the URC isn't a constant. Most of it comes from travel and altitude.**
 
-Model B's fitted equation:
+Model B's fitted equation (trained 2022–25):
 
 ```
 margin = 5.7 + 1.08*elo_diff + 3.09*cross_continent + 3.37*altitude
@@ -33,8 +33,17 @@ margin = 5.7 + 1.08*elo_diff + 3.09*cross_continent + 3.37*altitude
 
 - Home teams win 70% of URC matches, so accuracy barely separates the models. Brier score and log loss (the quality of the probabilities) are the metrics that matter.
 - Travel and altitude improve on Elo across every probability metric.
-- The 3-feature linear model matches Ridge with 12 features. Form, attack/defence and rest days add nothing beyond Elo.
 - Gradient boosting overfits with about 450 training matches.
+
+### Choosing Model B
+
+Linear and Ridge tied on the test season. **Linear was chosen for simplicity and interpretability:**
+- 3 features instead of 12, so less room to overfit noise
+- Every coefficient reads directly in points ("altitude is worth +3.4")
+- Ridge's extra 9 features (form, attack/defence, rest days) added nothing, which is evidence they carry no signal beyond Elo
+- Ridge's higher accuracy was about 5 extra correct picks out of 151, within noise
+
+For live use, the chosen model was retrained on 2022–2026 (including the test season), and its specification is frozen for the whole 2026/27 season.
 
 ## Method
 
@@ -49,38 +58,50 @@ margin = 5.7 + 1.08*elo_diff + 3.09*cross_continent + 3.37*altitude
 
 ### Model B: learning what Elo misses
 - Features built from information available before kickoff only (rolling windows use `shift(1)` to prevent leakage)
-- Correlating features with Elo's *error* showed that travel and altitude explain what Elo misses, while form does not
-- Models compared on the same test season with the same metrics; the simplest model tied for best
+- Correlating features with Elo's *error* showed that travel and altitude explain what Elo misses (Elo underrated home teams by about 6.5 points at altitude and 4.3 points against travelling teams), while form does not
+- All models were compared on the same test season with the same metrics
+- Each model's σ comes from out-of-fold errors, so no model looks more certain than it is
 
 ### Data split
 | Season | Role |
 |---|---|
 | 2021/22 | Warm-up (Elo ratings settle) |
 | 2022/23 – 2024/25 | Train / tune |
-| 2025/26 | Test (held out) |
+| 2025/26 | Test (held out), then added to training for live use |
 | 2026/27 | Live predictions, logged before kickoff |
 
 ### Data
 753 URC matches (2021–2026), scraped from Wikipedia season pages. Dates are validated against each season's window, and team names are normalised.
 
+## Live 2026/27 season
+
+Every round, both models' predictions are written to `data/predictions_log.csv` and committed **before kickoff**. The git timestamps prove the predictions weren't made after the results were known. Results are entered after each round, updating the Elo ratings and Model B's inputs.
+
 ## Project structure
 
 | File | Purpose |
 |---|---|
-| `elo.py` | Rating maths: predict, win probability, update,
+| `elo.py` | Rating maths: predict, win probability, update, replay |
+| `urc.py` | Live CLI: Elo + Model B predictions, results entry, ratings |
+| `scrape_history.py` | Scrapes 5 seasons of results → `data/history.csv` |
+| `backtest.py` | Replays history, grid-searches Elo settings, scores on the test season |
+| `features.py` | Builds the leakage-free feature table → `data/features.csv` |
+| `model_b.py` | Trains and compares ML models against Elo |
 
 ## Usage
 
 ```bash
 pip install -r requirements.txt
 
+# historical pipeline
 python scrape_history.py      # fetch historical results
 python backtest.py            # tune + evaluate Elo
 python features.py            # build features
 python model_b.py             # compare models
 
-python urc.py predict <round>
-python urc.py result <round> <home> <home_score> <away> <away_score>
+# weekly live loop
+python urc.py predict <round>                                          # before kickoff
+python urc.py result <round> <home> <home_score> <away> <away_score>   # after the games
 python urc.py ratings
 python urc.py history
 ```
@@ -89,7 +110,7 @@ python urc.py history
 - [x] Elo model, tuned and backtested
 - [x] Historical data (753 matches)
 - [x] Feature engineering + ML comparison
-- [ ] Model B live predictions alongside Elo
+- [x] Live predictions: Elo + Model B side by side
 - [ ] Bootstrap significance test (Model B vs Elo)
 - [ ] Monte Carlo season simulation (playoff probabilities)
 - [ ] Rating-over-time charts
