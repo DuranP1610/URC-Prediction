@@ -92,6 +92,15 @@ def main():
     }, index=teams).sort_values("champion", ascending=False)
     print(out.round(3).to_string())
     out.to_csv(DATA / "season_odds.csv")
+    # keep a snapshot per round, so odds can be charted over the season
+    after_round = int(played["round"].max()) if len(played) else 0
+    snap = out.reset_index(names="team").assign(after_round=after_round)
+    hist_path = DATA / "odds_history.csv"
+    if hist_path.exists():
+        hist = pd.read_csv(hist_path)
+        snap = pd.concat([hist[hist.after_round != after_round], snap])   # re-running a round replaces it
+    snap.to_csv(hist_path, index=False)
+    print(f"\nSaved odds after round {after_round} to {hist_path}")
 
 
 if __name__ == "__main__":
