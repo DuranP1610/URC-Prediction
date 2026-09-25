@@ -3,6 +3,7 @@
 Predicting United Rugby Championship match outcomes with a points-based Elo model and an ML model that learns what Elo misses.
 
 **Status:** Elo (Model A) and ML model (Model B) built, evaluated and significance-tested. Both are predicting the 2026/27 season live, with every prediction logged before kickoff.
+📓 **[Read the full analysis → findings.ipynb](findings.ipynb)**
 
 ## Key finding
 
